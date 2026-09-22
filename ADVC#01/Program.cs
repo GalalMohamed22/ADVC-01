@@ -138,6 +138,13 @@ namespace ADVC_01
 
             #endregion
 
+            #region What is covariance? Explain the 'out' keyword
+
+            // Covariance lets you use a more derived type where a base type is expected
+            // select generic will be use for return type only 
+
+            #endregion
+
 
 
 
