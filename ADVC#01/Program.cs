@@ -15,6 +15,20 @@ namespace ADVC_01
             #endregion
 
 
+            #region Write a generic class Container<T> with Add and Get methods.
+
+            //Container<int>.AddValue(0);
+            //Container<int>.AddValue(5);
+            //Container<int>.AddValue(6);
+            //var values = Container<int>.GetValues();
+            //foreach (int item in values)
+            //{
+            //    Console.WriteLine(item);
+            //}
+
+            #endregion
+
+
 
 
         }
