@@ -165,6 +165,14 @@ namespace ADVC_01
             #endregion
 
 
+            #region How do static members work in generic types?
+
+            // Each closed generic type gets its own independent copy of static members
+            // They are not shared across different type parameters
+
+            #endregion
+
+
 
         }
 
