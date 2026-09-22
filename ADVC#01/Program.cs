@@ -154,6 +154,16 @@ namespace ADVC_01
 
             #endregion
 
+            #region What is the difference between covariance and contravariance ?
+
+            // Covariance lets you use a more derived type where a base type is expected
+            // Covariance => out
+
+            // contravariance lets you use a base class type where a derived type is expected
+            // contravariance => in
+
+            #endregion
+
 
 
         }
