@@ -105,6 +105,14 @@ namespace ADVC_01
             #endregion
 
 
+            #region What is the base class constraint? Write an example.
+
+            // where T => must be derived from base class
+            //var x = TestBaseClass<Cat>(new Cat());
+
+            #endregion
+
+
 
         }
 
