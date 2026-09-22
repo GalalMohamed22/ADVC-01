@@ -128,6 +128,15 @@ namespace ADVC_01
 
             #endregion
 
+            #region Write a SafeList<T> that returns default when the index is invalid.
+
+            //SafeList<int> safe = new SafeList<int>();
+            //safe.Add(1);
+            //safe.Add(2);
+            //Console.WriteLine(safe.GetValue(5));
+
+            #endregion
+
 
 
         }
