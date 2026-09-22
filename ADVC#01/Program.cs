@@ -173,6 +173,15 @@ namespace ADVC_01
             #endregion
 
 
+            #region How can you inherit from a generic class?
+
+            // Inherit and keep it generic 
+            // Inherit and close the generic type
+            // Inherit with additional type parameters
+
+            #endregion
+
+
 
         }
 
