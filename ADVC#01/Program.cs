@@ -112,6 +112,16 @@ namespace ADVC_01
 
             #endregion
 
+            #region How do you apply multiple constraints? Write an example.
+
+            // You can apply multiple constraints to a generic type parameter by putting them after where and separating them with commas
+            //public class Container<T> where T : class, IComparable<T>, new()
+            //{
+            //    public T Value { get; set; }
+            //}
+
+            #endregion
+
 
 
         }
