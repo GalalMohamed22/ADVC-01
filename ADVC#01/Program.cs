@@ -122,6 +122,12 @@ namespace ADVC_01
 
             #endregion
 
+            #region What does the 'default' keyword do in generics?
+
+            // return default value for genaric type that specified
+
+            #endregion
+
 
 
         }
