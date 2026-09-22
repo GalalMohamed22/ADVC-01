@@ -29,6 +29,15 @@ namespace ADVC_01
             #endregion
 
 
+            #region What are multiple type parameters? Write Pair<TKey,TValue >
+
+            // Genaric class can have two parametars
+            //Pair<string, int> pair = new Pair<string, int>();
+            //pair.Key = "Route";
+            //pair.value = 48;
+
+            #endregion
+
 
 
         }
