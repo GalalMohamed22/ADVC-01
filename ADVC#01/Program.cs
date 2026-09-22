@@ -49,6 +49,15 @@ namespace ADVC_01
             #endregion
 
 
+            #region Write a generic method FindMax<T> that finds maximum value
+
+            //int[] arr = { 5, 0, 40, 40, 100, 2, 8 };
+            //int mx = FindMax<int>(arr);
+            //Console.WriteLine(mx);
+
+            #endregion
+
+
         }
 
         public static void Swap<T>(ref T x, ref T y)
