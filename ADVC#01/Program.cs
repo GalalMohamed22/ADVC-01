@@ -58,6 +58,14 @@ namespace ADVC_01
             #endregion
 
 
+            #region What is a generic interface? Write IRepository<T>
+
+            // any class implement interface must specify data type
+
+
+            #endregion
+
+
         }
 
         public static void Swap<T>(ref T x, ref T y)
