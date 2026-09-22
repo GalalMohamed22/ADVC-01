@@ -146,6 +146,14 @@ namespace ADVC_01
             #endregion
 
 
+            #region What is contravariance? Explain the 'in' keyword.
+
+            // it lets you use a base class type where a derived type is expected
+            // select generic will be use for parametar type only 
+
+
+            #endregion
+
 
 
         }
