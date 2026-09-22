@@ -39,6 +39,15 @@ namespace ADVC_01
             #endregion
 
 
+            #region What is a generic method? Write Swap<T> method.
+
+            // generic method that specific return type or parametar type using genaric
+            //int a = 12, b = 10;
+            //Swap(ref a,ref b);
+            //Console.WriteLine($"a: {a} , b: {b}");
+
+            #endregion
+
 
         }
 
