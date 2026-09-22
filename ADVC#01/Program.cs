@@ -7,7 +7,14 @@ namespace ADVC_01
         static void Main(string[] args)
         {
 
- 
+            #region  What is a generic class? Why use generics?
+
+            // generic class is specifiy type of attrebutes or methodes when creating class
+            // because type safety , code reusable , better performance and clean code
+
+            #endregion
+
+
 
 
         }
