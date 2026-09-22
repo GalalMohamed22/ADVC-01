@@ -77,6 +77,17 @@ namespace ADVC_01
             #endregion
 
 
+            #region What is the 'class' constraint? Write an example.
+
+            // where T => must be Reference type
+
+            //string[] names = { "Galal", "Mohamed", "Ahmed" };
+            //string fi = ReturnFirstName<string>(names);
+            //Console.WriteLine(fi);
+
+            #endregion
+
+
 
         }
 
