@@ -66,6 +66,18 @@ namespace ADVC_01
             #endregion
 
 
+            #region What is the 'struct' constraint? Write an example.
+
+            // where T => must be value type
+
+            //int[] arr = { 5, 0, 40, 40, 100, 2, 8 };
+            //int fi = ReturnFirstElemnt<int>(arr);
+            //Console.WriteLine(fi);
+
+            #endregion
+
+
+
         }
 
         public static void Swap<T>(ref T x, ref T y)
