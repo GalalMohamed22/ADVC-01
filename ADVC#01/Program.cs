@@ -88,6 +88,15 @@ namespace ADVC_01
             #endregion
 
 
+            #region What is the 'new()' constraint? Write an example.
+
+            // where T => must have parametarless ctor
+            //var te = TestNew<Container<int>>(new Container<int>());
+            //Console.WriteLine(te.GetType());
+
+            #endregion
+
+
 
         }
 
