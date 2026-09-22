@@ -97,6 +97,14 @@ namespace ADVC_01
             #endregion
 
 
+            #region What is the interface constraint? Write an example.
+
+            // creat class implement specific interface
+            // public class Product<T> where T : IRepository
+
+            #endregion
+
+
 
         }
 
